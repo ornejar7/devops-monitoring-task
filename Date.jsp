@@ -13,7 +13,7 @@
  
   <%
   String[] authors = request.getParameterValues("author");
-  if (authors != null) {
+  if (authorrrs != null) {
   %>
     <h3>You have selected author(s):</h3>
     <ul>
